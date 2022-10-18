@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I am a brazilian Senior Software Engineer, living and working in Prague, Czech Republic. 
+I am a brazilian Senior Software Engineer, from São Paulo, Brazil. 
 
 I have over ten years of experience with software development.
 Among my strongest background skills, Java can be mentioned, with a highlight on Web Development using multiple tools such as Spring MVC, Spring Boot, Hibernate, and JPA. 
@@ -32,7 +32,7 @@ As a worker, I can also highlight some leadership skills, quick learning capabil
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 💼 I’m currently working at [Mgm Technology Partners](https://www.mgm-tp.com/) 🇨🇿🇩🇪  
+- 💼 I’m currently working at [Nubank](https://nubank.com.br/) 
   
 
 - 🏗️ I've been developing personally [Clojure libs](https://clojars.org/majorcluster) and [a Clojure state machine](https://github.com/mtsbarbosa/clj-state-machine)  
