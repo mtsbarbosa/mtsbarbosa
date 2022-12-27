@@ -25,7 +25,7 @@ Also extensive is the Javascript expertise, including technologies such as Vue.j
 
 I have been also transitioning towards functional and other languages and tools, such as Clojure, Datomic and Flutter.
 
-Regarding my data background, I also have a long professional experience with SQL, having Oracle and SQL Server as the main used databases. Also recently some interesting experience with PostgreSQL, Redis, MongoDB and Google Store
+Regarding my data background, I also have a long professional experience with SQL, having Oracle and SQL Server as the main used databases. Also recently some interesting experience with PostgreSQL, Redis, MongoDB and Google Store.  
 Since some years ago, I have been acquiring some expertise with DevOps as well. Nowadays I can ensure a solid background with Jenkins, Docker, continuous deliveries, Bash Scripts, Varnish, and Linux server environments, together with a growing cloud knowledge with both AWS and Google Cloud.
 
 As a worker, I can also highlight some leadership skills, quick learning capability, strong commitment, and being a good team player.  
