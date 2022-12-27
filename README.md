@@ -6,7 +6,12 @@
 </a>
 <a href="https://linkedin.com/in/mateusbcarvalho" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a>   
+<br />   
+<br />   
+<br />   
+
+![Profile views counter](https://komarev.com/ghpvc/?username=mtsbarbosa&&style=flat-square)
   
 
 
@@ -92,11 +97,8 @@ As a worker, I can also highlight some leadership skills, quick learning capabil
 
 <br/>  
 
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=mtsbarbosa&&style=flat-square)  
+## Badges
+<img src="https://www.codewars.com/users/mtsbarbosa/badges/large" align="left" />
   
 
 <br/>  
